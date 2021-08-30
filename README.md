@@ -1,5 +1,6 @@
 # Project-Sub250---Indomitus
-Presenting India's sub 250 gram 5inch freestyle drone frame. 
+
+## Presenting India's sub 250 gram 5inch freestyle drone frame. 
 
 This is the sub250 5inch freestyle frame which gives the adrenaline rush of the 5inch and also is ilicit. The design and the features are derived from various popular frames
 and the "Ummagawd 2fiddy" and "Rotor Riot outlaw" are what inspired me. The frame has a unibody baseplate of 3mm (might change after thorough test) and the top plate is of thickness 2mm. One can easily fly 5.1 inch props. The motor mounting is in 12x12 configuration and the best suited motor would be the 2004 size motor. The frame has 20mm standoff.
@@ -14,6 +15,13 @@ and the "Ummagawd 2fiddy" and "Rotor Riot outlaw" are what inspired me. The fram
 ### Experience :
 
 To be honest , i had my fingers crossed in my first flight. But when it took the flight , just after i armed , it gave me that adrenaline rush which no 5inch could ever give. The name Indomitus is the latin of Untamable and yes it does proper justice to its name. You can see in the blackbox log that i didnt even go above 40% on my throttle. It is overpowered and i am waiting to try freestyling it as soon as possible. Its like a feather. And the low pitch props along with the buttery smooth motors makes music. The recommended battery for the motors is 4cell , but i flew this with 3 cell lipo. Just imagine what it can do with a 4 cell battery. My battery is old and didnt give me a lot of flight time. The max Amp draw has just a mere 7A. I enjoyed flying this and so would you. If you want the frame please contact me and support me. And please give suggestions and i am open to constructive criticism. ✌️ 
+
+### Links :
+
+* First test flight - <a href="https://drive.google.com/file/d/1JNFzRM3muJlzONINMt8Tqo_ZxjrmnTQV/view?usp=sharing">Video</a>
+* Latest video with colour correction - <a href="https://drive.google.com/file/d/1cSog0Enmj8_nftOVJzxGWln0ikH6BFNy/view?usp=sharing">Video</a>
+* Blackbox log (test flight) - <a href="https://github.com/BlueBlaze6335/Project-Sub250---Indomitus/blob/main/Assets/Indomitus.BBL">Download</a>
+* Blackbox log (latest flight) - <a href="https://github.com/BlueBlaze6335/Project-Sub250---Indomitus/blob/main/Assets/Flight.BBL">Download</a>
 
 ### Features :
 
@@ -45,14 +53,12 @@ To be honest , i had my fingers crossed in my first flight. But when it took the
 * LEDs - CLRacing Racelights . <a href="https://rcmumbai.com/clracing-race-led-choose-your-color-and-size.html">(link)</a>
 * 3D TPU parts from old 3inch drone .
 
-### Links :
-
-* First test flight - <a href="https://drive.google.com/file/d/1JNFzRM3muJlzONINMt8Tqo_ZxjrmnTQV/view?usp=sharing">Video</a>
-* Latest video with colour correction - <a href="https://drive.google.com/file/d/1cSog0Enmj8_nftOVJzxGWln0ikH6BFNy/view?usp=sharing">Video</a>
-* Blackbox log (test flight) - <a href="https://github.com/BlueBlaze6335/Project-Sub250---Indomitus/blob/main/Assets/Indomitus.BBL">Download</a>
-* Blackbox log (latest flight) - <a href="https://github.com/BlueBlaze6335/Project-Sub250---Indomitus/blob/main/Assets/Flight.BBL">Download</a>
 
 
-
+### Contact me -
+<p align="left">
+<a href="pbanerjee0801@gmail.com"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'></a>
+<a href="https://www.instagram.com/blueblazefpv/"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='insta' height='20'></a>
+</p>
 
 
