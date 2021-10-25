@@ -20,6 +20,8 @@ To be honest , i had my fingers crossed in my first flight. But when it took the
 
 * First test flight - <a href="https://drive.google.com/file/d/1JNFzRM3muJlzONINMt8Tqo_ZxjrmnTQV/view?usp=sharing">Video</a>
 * Latest video with colour correction - <a href="https://drive.google.com/file/d/1cSog0Enmj8_nftOVJzxGWln0ikH6BFNy/view?usp=sharing">Video</a>
+* Freestyle Video - [Video](https://drive.google.com/file/d/1zYVeOd7DNXcSlSvEUaRAGYOV4umDHW1B/view?usp=sharing)
+* Event Video - [Video](https://drive.google.com/file/d/19PzKbc2Oo8X94OzSVwCKTlm20AVTOIsg/view?usp=sharing)
 * Blackbox log (test flight) - <a href="https://github.com/BlueBlaze6335/Project-Sub250---Indomitus/blob/main/Assets/Indomitus.BBL">Download</a>
 * Blackbox log (latest flight) - <a href="https://github.com/BlueBlaze6335/Project-Sub250---Indomitus/blob/main/Assets/Flight.BBL">Download</a>
 
